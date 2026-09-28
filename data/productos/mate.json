@@ -1,0 +1,13 @@
+{
+  "nombre": "Mate",
+  "precio": 40000,
+  "precio_mayor": null,
+  "minimo_mayor": null,
+  "foto": "/img/productos/Prueba1.webp",
+  "descripcion": "Mate con bombilla",
+  "incluye": [],
+  "etiqueta": "Nuevo",
+  "orden": 1,
+  "agotado": false,
+  "visible": true
+}
