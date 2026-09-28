@@ -1,6 +1,8 @@
 {
   "nombre": "Mate Torpedo",
   "precio": 25000,
+  "precio_mayor": null,
+  "minimo_mayor": null,
   "foto": "/img/productos/mate-torpedo.jpg",
   "descripcion": "Forrado en cuero negro, con virola dorada cincelada y base con patas.",
   "incluye": [
@@ -9,7 +11,7 @@
     "Base con patas"
   ],
   "etiqueta": "",
-  "agotado": false,
-  "visible": true,
-  "orden": 10
+  "orden": 10,
+  "agotado": true,
+  "visible": true
 }
